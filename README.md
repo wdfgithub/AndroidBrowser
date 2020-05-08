@@ -25,5 +25,12 @@
     4. 主页显示常用网页和收藏夹。
     5. 网页浏览时上拉会出现按钮，点击到达顶端。
     6. 网页加载时有进度条显示加载进度。
-    
-![image]()
+
+效果截图：
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/1.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/2.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/3.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/4.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/5.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/8.png)
+![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/7.png)
