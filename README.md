@@ -1,6 +1,8 @@
 # android-browser
 基于webkit的安卓浏览器
 
+本科课程设计，logo过大被导师吐槽丑，其他还比较满意。
+
 摘  要：
 
 [简单列出已经实现的功能]
@@ -24,7 +26,7 @@
     3. 主页搜索框会显示历史内容以及模糊搜索。
     4. 主页显示常用网页和收藏夹。
     5. 网页浏览时上拉会出现按钮，点击到达顶端。
-    6. 网页加载时有进度条显示加载进度。
+    6. 网页加载时有进度条显示加载进度。（疑似有bug待修改）
 
 效果截图：
 ![image](https://raw.githubusercontent.com/wdfgithub/android-browser/master/screenshot/1.png)
